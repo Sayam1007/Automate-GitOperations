@@ -1,3 +1,2 @@
-# Git-Automation
-Automate->GitOperations 
-Shell Scripting
+# bash scripting
+
